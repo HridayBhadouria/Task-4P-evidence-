@@ -1,0 +1,5 @@
+My Supporting Files in GitHub
+
+I stored my Arduino sketch, Python scripts, raw CSV, processed CSV, collection log, hardware photos, screenshots, statistical output and plots in my private GitHub repository. I shared access only with the assessor because the raw data contains timestamps from my personal desk experiment.
+
+GitHub repository link: [Insert private GitHub repository link here]

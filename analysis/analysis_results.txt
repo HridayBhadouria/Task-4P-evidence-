@@ -1,0 +1,27 @@
+My SIT225 4P PIR Analysis Results
+
+My data quality check
+I started with 1499 raw rows.
+I removed 0 invalid rows.
+I removed 0 duplicate timestamps.
+I finished with 1499 raw rows.
+I estimated 0 missing rows.
+My estimated missing percentage was 0.00%.
+
+My hypothesis tests
+For H1, I found motion detected in 5/5 normal desk-work windows.
+My H1 one-sided exact binomial p-value was 0.0312.
+For H2, I found no motion detected in 0/5 empty-desk windows.
+My H2 one-sided exact binomial p-value was 1.0000.
+
+My possible PIR errors
+I found 15 possible unwanted motion alerts in no-motion conditions.
+I found 0 possible missed motion windows in normal desk work.
+I based these counts on my planned condition. They do not prove why a PIR reading occurred.
+
+My storage comparison
+I reduced records by 98.33% when I changed five-second raw readings into five-minute summaries.
+I reduced records by 99.67% when I compared five-minute summaries with a one-second baseline.
+
+My interpretation rule
+I treated the PIR result as motion near my desk. I did not treat it as proof of study time, attendance, focus, or productivity.

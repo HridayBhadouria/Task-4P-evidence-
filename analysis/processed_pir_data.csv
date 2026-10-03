@@ -1,0 +1,26 @@
+window_number,round_number,window_start,window_end,condition,expected_desk_motion,total_samples,motion_samples,motion_percent,final_label,sensor_position_and_angle,other_people_present,notes
+1,1,2026-10-02 17:04:13,2026-10-02 17:09:13,Normal desk work,yes,60,32,53.33,motion detected,I placed the PIR near the desk and aimed it at the desk area,No,I completed normal desk work with natural movement
+2,1,2026-10-02 17:09:13,2026-10-02 17:14:13,Quiet sitting,unclear,60,30,50.0,motion detected,I placed the PIR near the desk and aimed it at the desk area,No,I sat quietly with minimal movement
+3,1,2026-10-02 17:14:13,2026-10-02 17:19:13,Empty desk,no,60,35,58.33,motion detected,I placed the PIR near the desk and aimed it at the desk area,No,I left the desk area empty
+4,1,2026-10-02 17:19:13,2026-10-02 17:24:13,Walking past desk,no,60,27,45.0,motion detected,I placed the PIR near the desk and aimed it at the desk area,No,I walked past the desk without using it
+5,1,2026-10-02 17:24:13,2026-10-02 17:29:13,Movement near door,no,60,26,43.33,motion detected,I placed the PIR near the desk and aimed it at the desk area,No,I moved near the outer edge of the room without using the desk
+6,2,2026-10-02 17:29:13,2026-10-02 17:34:13,Normal desk work,yes,60,27,45.0,motion detected,I placed the PIR near the desk and aimed it at the desk area,No,I completed normal desk work with natural movement
+7,2,2026-10-02 17:34:13,2026-10-02 17:39:13,Quiet sitting,unclear,60,31,51.67,motion detected,I placed the PIR near the desk and aimed it at the desk area,No,I sat quietly with minimal movement
+8,2,2026-10-02 17:39:13,2026-10-02 17:44:13,Empty desk,no,60,31,51.67,motion detected,I placed the PIR near the desk and aimed it at the desk area,No,I left the desk area empty
+9,2,2026-10-02 17:44:13,2026-10-02 17:49:13,Walking past desk,no,60,32,53.33,motion detected,I placed the PIR near the desk and aimed it at the desk area,No,I walked past the desk without using it
+10,2,2026-10-02 17:49:13,2026-10-02 17:54:13,Movement near door,no,60,31,51.67,motion detected,I placed the PIR near the desk and aimed it at the desk area,No,I moved near the outer edge of the room without using the desk
+11,3,2026-10-02 17:54:13,2026-10-02 17:59:13,Normal desk work,yes,60,29,48.33,motion detected,I placed the PIR near the desk and aimed it at the desk area,No,I completed normal desk work with natural movement
+12,3,2026-10-02 17:59:13,2026-10-02 18:04:13,Quiet sitting,unclear,60,26,43.33,motion detected,I placed the PIR near the desk and aimed it at the desk area,No,I sat quietly with minimal movement
+13,3,2026-10-02 18:04:13,2026-10-02 18:09:13,Empty desk,no,60,29,48.33,motion detected,I placed the PIR near the desk and aimed it at the desk area,No,I left the desk area empty
+14,3,2026-10-02 18:09:13,2026-10-02 18:14:13,Walking past desk,no,60,28,46.67,motion detected,I placed the PIR near the desk and aimed it at the desk area,No,I walked past the desk without using it
+15,3,2026-10-02 18:14:13,2026-10-02 18:19:13,Movement near door,no,60,29,48.33,motion detected,I placed the PIR near the desk and aimed it at the desk area,No,I moved near the outer edge of the room without using the desk
+16,4,2026-10-02 18:19:13,2026-10-02 18:24:13,Normal desk work,yes,60,31,51.67,motion detected,I placed the PIR near the desk and aimed it at the desk area,No,I completed normal desk work with natural movement
+17,4,2026-10-02 18:24:13,2026-10-02 18:29:13,Quiet sitting,unclear,60,35,58.33,motion detected,I placed the PIR near the desk and aimed it at the desk area,No,I sat quietly with minimal movement
+18,4,2026-10-02 18:29:13,2026-10-02 18:34:13,Empty desk,no,60,28,46.67,motion detected,I placed the PIR near the desk and aimed it at the desk area,No,I left the desk area empty
+19,4,2026-10-02 18:34:13,2026-10-02 18:39:13,Walking past desk,no,60,35,58.33,motion detected,I placed the PIR near the desk and aimed it at the desk area,No,I walked past the desk without using it
+20,4,2026-10-02 18:39:13,2026-10-02 18:44:13,Movement near door,no,60,24,40.0,motion detected,I placed the PIR near the desk and aimed it at the desk area,No,I moved near the outer edge of the room without using the desk
+21,5,2026-10-02 18:44:13,2026-10-02 18:49:13,Normal desk work,yes,60,30,50.0,motion detected,I placed the PIR near the desk and aimed it at the desk area,No,I completed normal desk work with natural movement
+22,5,2026-10-02 18:49:13,2026-10-02 18:54:13,Quiet sitting,unclear,60,31,51.67,motion detected,I placed the PIR near the desk and aimed it at the desk area,No,I sat quietly with minimal movement
+23,5,2026-10-02 18:54:13,2026-10-02 18:59:13,Empty desk,no,60,25,41.67,motion detected,I placed the PIR near the desk and aimed it at the desk area,No,I left the desk area empty
+24,5,2026-10-02 18:59:13,2026-10-02 19:04:13,Walking past desk,no,60,28,46.67,motion detected,I placed the PIR near the desk and aimed it at the desk area,No,I walked past the desk without using it
+25,5,2026-10-02 19:04:13,2026-10-02 19:09:03,Movement near door,no,58,29,50.0,motion detected,I placed the PIR near the desk and aimed it at the desk area,No,I moved near the outer edge of the room without using the desk; collection ended 10 seconds early
